@@ -3,7 +3,10 @@ Python notebooks for the "Data Mining" course, Bachelor Degree ("Laurea Triennal
 
 # Overview (work in progress..)
 > * Part 1 - Data Handling (Numpy & Pandas)
-> * Part 2 - TBA
+> * Part 2 - Classification
+> * Part 3 - Clustering
+> * Part 4 - Regression
+> * Part 5 - TBA
 
 
 # Acknowledgements
